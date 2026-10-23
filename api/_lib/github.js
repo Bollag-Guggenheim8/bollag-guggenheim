@@ -1,5 +1,5 @@
 const settings = require('../../src/admin/admin-settings.json');
-const GITHUB_OWNER = settings.githubOwner || process.env.GITHUB_OWNER || 'bernardogancho';
+const GITHUB_OWNER = settings.githubOwner || process.env.GITHUB_OWNER || 'Bollag-Guggenheim8';
 const GITHUB_REPO = settings.githubRepo || process.env.GITHUB_REPO || 'bollag-guggenheim';
 const GITHUB_BRANCH = settings.githubBranch || process.env.GITHUB_BRANCH || 'main';
 const GITHUB_API_BASE = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}`;
