@@ -131,7 +131,7 @@
         {
           "dateLabel": "30 SEPTEMBER - 11 NOVEMBER 2026",
           "brand": "Dea Kudibal",
-          "detail": "Collection Summer / Pre-Fall 2027, delivery March - May 2027",
+          "detail": "Collection Summer / Pre-Fall 2027, delivery Mar - May 2027",
           "location": "Showroom Erlenbach"
         },
         {
@@ -166,7 +166,7 @@
         {
           "dateLabel": "19 October - 19 November 2026",
           "brand": "Codello",
-          "detail": "Collection Summer 2027, delivery April - May 2027",
+          "detail": "Collection Summer 2027, delivery Apr - May 2027",
           "location": "Showroom Zurich"
         }
       ]
@@ -187,9 +187,15 @@
           "location": "Showroom Erlenbach"
         },
         {
+          "dateLabel": "30 NOVEMBER - 9 DECEMBER 2026",
+          "brand": "Drykorn",
+          "detail": "Collection Pre Fall 2027, delivery May 2027",
+          "location": "Showroom Glattpark"
+        },
+        {
           "dateLabel": "2 - 27 November 2026",
           "brand": "GUESS",
-          "detail": "Collection Pre Fall 2027, delivery May - July 2027",
+          "detail": "Collection Pre Fall 2027, delivery May - Jul 2027",
           "location": "Showroom Zurich"
         },
         {
@@ -225,7 +231,7 @@
         {
           "dateLabel": "18 November - 14 December 2026",
           "brand": "YAYA",
-          "detail": "Collection Pre Fall 2027, delivery June - July 2027",
+          "detail": "Collection Pre Fall 2027, delivery Jun - Jul 2027",
           "location": "Showroom Zurich"
         }
       ]
@@ -258,6 +264,12 @@
           "location": "Showroom Zurich"
         },
         {
+          "dateLabel": "28 JANUARY - 26 FEBRUARY 2027",
+          "brand": "Guess",
+          "detail": "Collection Main Fall / Winter 2027, delivery Jul – Sep 2027\n",
+          "location": "Showroom Glattpark"
+        },
+        {
           "dateLabel": "25 JANUARY - 25 FEBRUARY 2027",
           "brand": "Le Tricot Perugia",
           "detail": "Collection Fall 2027, delivery Aug - Sep 2027",
@@ -270,10 +282,16 @@
           "location": "Showroom Erlenbach"
         },
         {
-          "dateLabel": "25 JANUARY - 5 FEBRUARY 2026",
+          "dateLabel": "25 JANUARY - 5 FEBRUARY 2027",
           "brand": "More & More",
           "detail": "Collection Fall 2027, delivery Aug - Sep 2027",
           "location": "Showroom Zurich"
+        },
+        {
+          "dateLabel": "25 JANUARY - 9 FEBRUARY 2027",
+          "brand": "Rich & Royal",
+          "detail": "Collection Pre Fall 2027, deliver Jun - Aug 2027",
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "13 JANUARY - 15 FEBRUARY 2027",
@@ -297,6 +315,45 @@
           "brand": "YAYA",
           "detail": "Collection Fall 2027, delivery Oct - Nov 2027",
           "location": "Showroom Zurich"
+        },
+        {
+          "dateLabel": "15 - 26 MARCH 2027",
+          "brand": "Rich & Royal",
+          "detail": "Collection Main Fall 2027, delivery Sep - Nov 2027",
+          "location": "Showroom Glattpark"
+        }
+      ]
+    },
+    {
+      "month": "May 2027",
+      "events": [
+        {
+          "dateLabel": "3 MAY - 28 MAY 2027",
+          "brand": "Guess",
+          "detail": "Collection Pre Spring / Summer 2028, delivery Nov 2027 – Jan 2028\n",
+          "location": "Showroom Glattpark"
+        }
+      ]
+    },
+    {
+      "month": "July 2027",
+      "events": [
+        {
+          "dateLabel": "1 JULY - 13 AUGUST 2027",
+          "brand": "Guess",
+          "detail": "Collection Main Spring / Summer 2028, delivery Jan – Mar 2028\n",
+          "location": "Showroom Glattpark"
+        }
+      ]
+    },
+    {
+      "month": "November 2027",
+      "events": [
+        {
+          "dateLabel": "1 NOVEMBER - 26 NOVEMBER 2027",
+          "brand": "Guess",
+          "detail": "Collection Pre Fall / Winter 2028, delivery May – Jul 2028\n",
+          "location": "Showroom Glattpark"
         }
       ]
     }
