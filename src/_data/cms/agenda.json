@@ -167,7 +167,7 @@
           "dateLabel": "19 October - 19 November 2026",
           "brand": "Codello",
           "detail": "Collection Summer 2027, delivery Apr - May 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         }
       ]
     },
@@ -178,7 +178,7 @@
           "dateLabel": "11 November - 11 December 2026",
           "brand": "Closed",
           "detail": "Collection Pre-Fall 2027, delivery May - Jul 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "9 November - 9 March 2027",
@@ -202,7 +202,7 @@
           "dateLabel": "2 - 27 November 2026",
           "brand": "GUESS",
           "detail": "Collection Pre Fall 2027, delivery May - Jul 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "15 NOVEMBER 2026 - 31 JANUARY 2027",
@@ -226,13 +226,13 @@
           "dateLabel": "16 - 27 November 2026",
           "brand": "More & More",
           "detail": "Collection High Summer and Pre Fall 2027, delivery May- June 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "19 - 27 November 2026",
           "brand": "Rich & Royal",
           "detail": "Collection Summer 2027, delivery May 2027 & Outdoor Fall Winter 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "30 NOVEMBER - 21 DECEMBER 2026",
@@ -250,7 +250,7 @@
           "dateLabel": "18 November - 14 December 2026",
           "brand": "YAYA",
           "detail": "Collection Pre Fall 2027, delivery Jun - Jul 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         }
       ]
     },
@@ -267,25 +267,25 @@
           "dateLabel": "18 January - 19 February 2027",
           "brand": "Closed",
           "detail": "Collection Fall 2027, delivery Aug - Sep 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "25 JANUARY - 20 FEBRUARY 2027",
           "brand": "Codello",
           "detail": "Collection Fall 2027, delivery Jun - Aug 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "25 JANUARY - 25 FEBRUARY 2027",
           "brand": "Cuoieria Fiorentina",
           "detail": "Collection Fall 2027, delivery Jul - Sep 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "25 JANUARY - 25 FEBRUARY 2027",
           "brand": "Daniele Fiesoli Womenswear",
           "detail": "Collection Fall 2027, delivery Aug - Sep 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "18 JANUARY - 9 MARCH 2027",
@@ -315,7 +315,7 @@
           "dateLabel": "25 JANUARY - 25 FEBRUARY 2027",
           "brand": "Le Tricot Perugia",
           "detail": "Collection Fall 2027, delivery Aug - Sep 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "15 JANUARY - 5 MARCH 2027",
@@ -327,7 +327,7 @@
           "dateLabel": "25 JANUARY - 5 FEBRUARY 2027",
           "brand": "More & More",
           "detail": "Collection Fall 2027, delivery Aug - Sep 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "25 JANUARY - 9 FEBRUARY 2027",
@@ -363,7 +363,7 @@
           "dateLabel": "13 JANUARY - 15 FEBRUARY 2027",
           "brand": "YAYA",
           "detail": "Collection Fall 2027, delivery Aug - Sep 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "18 JANUARY - 26 FEBRUARY 2027",
@@ -391,19 +391,30 @@
           "dateLabel": "15 - 25 MARCH 2027",
           "brand": "More & More",
           "detail": "Collection High Winter 2027, delivery Oct - Nov 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "17 MARCH - 19 APRIL 2027",
           "brand": "YAYA",
           "detail": "Collection Fall 2027, delivery Oct - Nov 2027",
-          "location": "Showroom Zurich"
+          "location": "Showroom Glattpark"
         },
         {
           "dateLabel": "15 - 26 MARCH 2027",
           "brand": "Rich & Royal",
           "detail": "Collection Main Fall 2027, delivery Sep - Nov 2027",
           "location": "Showroom Glattpark"
+        }
+      ]
+    },
+    {
+      "month": "April 2027",
+      "events": [
+        {
+          "dateLabel": "15 APRIL - 15 JUNE 2027",
+          "brand": "Dea Kudibal",
+          "detail": "Collection Winter 2027 / Pre-Summer 2028, delivery Oct - Nov 2027",
+          "location": "Showroom Erlenbach"
         }
       ]
     },
@@ -426,6 +437,23 @@
           "brand": "Guess",
           "detail": "Collection Main Spring / Summer 2028, delivery Jan – Mar 2028\n",
           "location": "Showroom Glattpark"
+        },
+        {
+          "dateLabel": "19 - 30 JULY 2027",
+          "brand": "More & More",
+          "detail": "Collection Spring 2028, delivery Jan - Feb 2028",
+          "location": "Showroom Glattpark"
+        }
+      ]
+    },
+    {
+      "month": "September 2027",
+      "events": [
+        {
+          "dateLabel": "20 SEPTEMBER - 1 OCTOBER 2027",
+          "brand": "More & More",
+          "detail": "Collection Summer 2028, delivery Mar - Apr 2028",
+          "location": "Showroom Glattpark"
         }
       ]
     },
@@ -437,17 +465,12 @@
           "brand": "Guess",
           "detail": "Collection Pre Fall / Winter 2028, delivery May – Jul 2028\n",
           "location": "Showroom Glattpark"
-        }
-      ]
-    },
-    {
-      "month": "April 2027",
-      "events": [
+        },
         {
-          "dateLabel": "15 APRIL - 15 JUNE 2027",
-          "brand": "Dea Kudibal",
-          "detail": "Collection Winter 2027 / Pre-Summer 2028, delivery Oct - Nov 2027",
-          "location": "Showroom Erlenbach"
+          "dateLabel": "15 - 26 NOVEMBER 2027",
+          "brand": "More & More",
+          "detail": "Collection High Summer / Pre-Fall 2028, delivery May - Jun 2028",
+          "location": "Showroom Glattpark"
         }
       ]
     }
